@@ -35,6 +35,7 @@ class AppImage {
   static final RxString rentSelling = "assets/images/rent-sell.png".obs;
   static final RxString contactUs = "assets/images/contact.png".obs;
   static final RxString map = "assets/images/map.png".obs;
+  static final RxString laCity = "assets/images/laCity.png".obs;
 }
 
 class GifFile {}
